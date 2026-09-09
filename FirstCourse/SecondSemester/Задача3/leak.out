@@ -1,0 +1,7 @@
+D   0x401958             # delete non alloc or twice pointer  0x2298780
+# LeakReport
+# from new @ |      size  # Pointer Addr
+L   0x401619          56  # 0x2296720
+# total allocation requests:      6 ; max. mem used 0 kBytes
+# leak     56 Bytes	:-(
+WORK TIME - 00:00:00.00

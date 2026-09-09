@@ -1,0 +1,1 @@
+Написать quick sort + сделать визуализацию в mathplotlib
